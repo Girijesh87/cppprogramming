@@ -1,3 +1,4 @@
 # cppprogramming
 cpp programs
-various cpp programs
+cppprogramming
+cpp programs
